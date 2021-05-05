@@ -22,3 +22,7 @@ Create Budget:
 
 My Budgets View:
 
+![image](https://user-images.githubusercontent.com/64698780/117176241-ab479d00-ad9d-11eb-968b-ffe0d78b27cc.png)
+
+Expand Budget:
+![image](https://user-images.githubusercontent.com/64698780/117176597-0aa5ad00-ad9e-11eb-97c0-1c82e8e3b8b7.png)
